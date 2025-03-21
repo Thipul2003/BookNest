@@ -13,19 +13,25 @@
         android:theme="@style/Base.Theme.BookNest"
         tools:targetApi="31">
         <activity
+            android:name=".activity.SignUpActivity"
+            android:theme="@style/NormalTheme"
+            android:exported="false" />
+        <activity
+            android:name=".activity.SignInActivity"
+            android:theme="@style/NormalTheme"
+            android:exported="false" />
+        <activity
             android:name=".activity.SplashActivity"
-            android:theme="@style/LaunchTheme"
-            android:exported="true">
+            android:exported="true"
+            android:theme="@style/LaunchTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name=".activity.MainActivity"
-            android:theme="@style/NormalTheme"
-            android:exported="true"/>
+            android:theme="@style/NormalTheme" />
     </application>
 
 </manifest>
