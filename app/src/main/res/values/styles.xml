@@ -3,6 +3,7 @@
     <style name="LaunchTheme" parent="Theme.Material3.DayNight.NoActionBar">
         <item name="android:windowBackground">@drawable/launcher_background</item>
         <item name="android:statusBarColor">@color/gradient_1</item>
+        <item name="android:navigationBarColor">@color/gradient_1</item>
     </style>
     <style name="NormalTheme" parent="Theme.Material3.DayNight.NoActionBar">
         <item name="statusBarBackground">@color/gradient_1</item>
