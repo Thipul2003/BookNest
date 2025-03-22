@@ -7,6 +7,9 @@
     <color name="gradient_2">#FFEDD5</color>
     <color name="light_grey">#ADAEBC</color>
     <color name="dark_grey">#4B5563</color>
+    <color name="dark_grey_2">#6B7280</color>
     <color name="icon_grey">#E5E7EB</color>
     <color name="text_color1">#1F2937</color>
+    <color name="price_color">#2563EB</color>
+    <color name="yellow">#FFEB3B</color>
 </resources>

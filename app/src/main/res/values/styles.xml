@@ -6,7 +6,11 @@
         <item name="android:navigationBarColor">@color/gradient_1</item>
     </style>
     <style name="NormalTheme" parent="Theme.Material3.DayNight.NoActionBar">
-        <item name="statusBarBackground">@color/gradient_1</item>
+        <item name="statusBarBackground">@color/white</item>
         <item name="android:windowBackground">@color/gradient_1</item>
     </style>
+    <style name="BoldToolbarTitle" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textStyle">bold</item>
+    </style>
+
 </resources>

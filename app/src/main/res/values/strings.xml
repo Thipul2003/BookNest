@@ -22,14 +22,25 @@
     <string name="text19">Create Account</string>
     <string name="text20">Join our community of book lovers</string>
     <string name="text21">Full Name</string>
-    <string name="text22"></string>
-    <string name="text23"></string>
-    <string name="text24"></string>
-    <string name="text25"></string>
-    <string name="text26"></string>
-    <string name="text27"></string>
-    <string name="text28"></string>
-    <string name="text29"></string>
+    <string name="text22">The Silent Echo </string>
+    <string name="text23">Sarah Mitchell</string>
+    <string name="text24">$19.99</string>
+    <string name="text25">Add</string>
+    <string name="text26">The Last Secret</string>
+    <string name="text27">Micheal Ross</string>
+    <string name="text28">4.5</string>
+    <string name="text29">Search for books</string>
+    <string name="text30">All Books</string>
+    <string name="text31">Fiction</string>
+    <string name="text32">Non-Fiction</string>
+    <string name="text33">Featured Books</string>
+    <string name="text34">New Releases</string>
+    <string name="text35"></string>
+    <string name="text36"></string>
+    <string name="text37"></string>
+    <string name="text38"></string>
+    <string name="text39"></string>
+    <string name="text40"></string>
 
 
     <string name="hint1">your@email.com</string>
@@ -37,6 +48,8 @@
     <string name="hint3">Enter your name</string>
     <string name="hint4">Enter your email</string>
     <string name="hint5">Create password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
 </resources>
